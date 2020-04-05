@@ -1,5 +1,7 @@
 # pex.jl
 
+A simple SPHERE IFS simulator
+
 ```@index
 ```
 
